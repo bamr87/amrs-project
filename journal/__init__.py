@@ -1,0 +1,1 @@
+# Journal module for accounting entries
